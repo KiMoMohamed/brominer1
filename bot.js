@@ -1,5 +1,3 @@
-
-
   const Discord = require("discord.js");
 const client = new Discord.Client();
 
@@ -16,8 +14,6 @@ if (message.content === '!spam') {
         }
       }
 });
-
-
 
 
 
